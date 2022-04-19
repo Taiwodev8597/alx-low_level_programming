@@ -10,10 +10,7 @@ char alphabet;
 int num = 10;
 for (alphabet = 'a'; alphabet <= 'z';)
 {
-while (num <= 10)
-{
-alphabet = alphabet++;
-}
+while (num <= 10; alphabet++)
 _putchar(alphabet);
 _putchar('\n');
 }
