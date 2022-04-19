@@ -1,4 +1,4 @@
-#insert "main.h"
+#include "main.h"
 /**
  * main - Entry point
  * Description: program to print alphabets in lower case
