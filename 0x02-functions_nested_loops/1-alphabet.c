@@ -1,5 +1,6 @@
 #insert "main.h"
-/**main - Entry point
+/**
+ * main - Entry point
  * Description: program to print alphabets in lower case
  * return: nothing
  */
